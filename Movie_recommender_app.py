@@ -104,4 +104,3 @@ if st.button('Suggest'):
     with col5:
         st.text(movie[4])
         st.image(poster[4])
->>>>>>> 0e2418164c5305e2537780d150adabc272943964
